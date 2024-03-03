@@ -4,4 +4,4 @@ It's been pretty hard to find nicely-formatted accurate data about a multiple of
 
 Data schemas will be refined over time and I'll slowly push through my backlog and upload more data as I come across it in my different projects.
 
-If you have any suggestion about data-formatting, feel free to raise an issue or shoot me a DM on Discord at @pax_777
+If you have any suggestions about data-formatting, feel free to raise an issue or shoot me a DM on Discord at @pax_777
