@@ -54,8 +54,8 @@ If you have any suggestions about data-formatting, feel free to raise an issue o
 ```
 
 ### Left to add 
-- Upgrade recipes (mapped, need to extract)
-- Sharpness (mapped, need to extract)
-- GL shelling, HH songs, SA Phials (mapped, need to list them)
-- Weapon Lengths (mapped)
-- G Weapon Level upgrades (not mapped)
+- [ ] Upgrade recipes (mapped, need to extract)
+- [ ] Sharpness (mapped, need to extract)
+- [ ] GL shelling, HH songs, SA Phials (mapped, need to list them)
+- [ ] Weapon Lengths (mapped)
+- [ ] G Weapon Level upgrades (not mapped)
